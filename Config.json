@@ -1,0 +1,104 @@
+{
+  "appRedirect": {
+    "status": false,
+    "redirectURL": "https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
+  },
+
+  "AdsController": {
+    
+    "README": "To run ads for each network, enter one of the following: 'admob', 'applovin', or 'hws'.",
+    
+    "AdInterval": 1,
+    
+    "BannerNetwork"      : "hws",
+    "InterstitialNetwork": "admob",
+    "RewardNetwork"      : "admob",
+    
+    "AdPlacement": {
+      
+      "AdMobBanner": "ca-app-pub-3940256099942544/6300978111",
+      "AdMobInterstitialAd": "ca-app-pub-3940256099942544/1033173712",
+      "AdMobRewardAd": "ca-app-pub-3940256099942544/5224354917",
+      
+      "ApplovinKey": "10PlbbIo7l002Tx39uGBD0B0T5Tzxnfyn4hNg-9okAoneiqpb5-q59qZFNXB8C7wGqHxoRiVbVGFD42p91cFBR",
+      "ApplovinBanner": "da17eff31ae69f15",
+      "ApplovinInterstitialAd": "98f6a586ed642919",
+      "ApplovinRewardAd": "98f6a586ed642919",
+      
+      "HuaweiBanner": "testw6vs28auh3",
+      "HuaweiInterstitialAd": "testb4znbuh3n2",
+      "HuaweiRewardAd": "testx9dtjwj8hp"
+    }
+  },
+  
+  "MinecraftData": {
+    "Addons": [
+      {
+        "title": "MineCarft Decoration Addon",
+        "addonLink": "https://zonekapp.com/MineCraft/addons/decoration.zip",
+        "isLocked": false,
+        "coins": 0,
+        "description": "your description her about Decoration Addon",
+        "preview": [
+          "https://zonekapp.com/MineCraft/addons/1.jpg",
+          "https://zonekapp.com/MineCraft/addons/2.jpg",
+          "https://zonekapp.com/MineCraft/addons/3.jpg"
+        ]
+      },
+      {
+        "title": "MineCarft Test Addon",
+        "addonLink": "https://zonekapp.com/MineCraft/addons/decoration.zip",
+        "isLocked": true,
+        "coins": 50,
+        "description": "your description her about MineCarft Test Addon",
+        "preview": [
+          "https://zonekapp.com/MineCraft/addons/2.jpg",
+          "https://zonekapp.com/MineCraft/addons/1.jpg",
+          "https://zonekapp.com/MineCraft/addons/3.jpg"
+        ]
+      },
+      {
+        "title": "MineCarft Test 3",
+        "addonLink": "https://zonekapp.com/MineCraft/addons/decoration.zip",
+        "isLocked": true,
+        "coins": 50,
+        "description": "your description her about MineCarft Test Addon",
+        "preview": [
+          "https://zonekapp.com/MineCraft/addons/3.jpg",
+          "https://zonekapp.com/MineCraft/addons/1.jpg",
+          "https://zonekapp.com/MineCraft/addons/2.jpg"
+        ]
+      }
+    ]
+  },
+  
+  "AppsPromote": {
+    "status": true,
+    "apps": [
+      {
+        "name": "Minecraft PE skyblock",
+        "packageName": "com.andiqwer.skyblock_maps",
+        "icon": "https://play-lh.googleusercontent.com/_KVgzJrTgMAgtOVMWUtOTbJjFv2H8BVAzIWX73mTkZglztux4F0yHO0OH_L7auFf3A=w240-h480",
+        "download": "+100 K"
+      },
+      {
+        "name": "Houses Maps",
+        "packageName": "com.andiqwer.house_maps",
+        "icon": "https://play-lh.googleusercontent.com/bQsbA_haB-0iEsxZ6MdgH0fjtsmlQkMiSusNLybYrevbC1O6ksLhlqfL9MTCqOUWnEo=w240-h480",
+        "download": "+500 K"
+      },
+      {
+        "name": "Guns Mods",
+        "packageName": "com.AndiQwer.GunMods",
+        "icon": "https://play-lh.googleusercontent.com/LeOVlNtItLA87uqKnjvo0hjBEOLdMKNheAOYI40qiOERuFXfZLZ2LQ5U6bk9rbfj7pPC=w240-h480",
+        "download": "+1 Million"
+      },
+      {
+        "name": "Cars Mods",
+        "packageName": "com.andiqwer.car_mods",
+        "icon": "https://play-lh.googleusercontent.com/lnbR00xtm3QcQWCUf9N9i4fOZBK6M0AuczactBbOFUuo2DbRU3VS0x9yUqTvVtnFyg=w240-h480",
+        "download": "+50 Million"
+      }
+    ]
+  }
+}
